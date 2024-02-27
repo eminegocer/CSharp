@@ -1,0 +1,34 @@
+C:\Users\LENOVO\Desktop\C# murat yücedağ\MaskedText\MaskedText\bin\Debug\net6.0-windows\MaskedText.exe
+C:\Users\LENOVO\Desktop\C# murat yücedağ\MaskedText\MaskedText\bin\Debug\net6.0-windows\MaskedText.deps.json
+C:\Users\LENOVO\Desktop\C# murat yücedağ\MaskedText\MaskedText\bin\Debug\net6.0-windows\MaskedText.runtimeconfig.json
+C:\Users\LENOVO\Desktop\C# murat yücedağ\MaskedText\MaskedText\bin\Debug\net6.0-windows\MaskedText.dll
+C:\Users\LENOVO\Desktop\C# murat yücedağ\MaskedText\MaskedText\bin\Debug\net6.0-windows\MaskedText.pdb
+C:\Users\LENOVO\Desktop\C# murat yücedağ\MaskedText\MaskedText\obj\Debug\net6.0-windows\MaskedText.Form1.resources
+C:\Users\LENOVO\Desktop\C# murat yücedağ\MaskedText\MaskedText\obj\Debug\net6.0-windows\MaskedText.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\C# murat yücedağ\MaskedText\MaskedText\obj\Debug\net6.0-windows\MaskedText.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\C# murat yücedağ\MaskedText\MaskedText\obj\Debug\net6.0-windows\MaskedText.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\C# murat yücedağ\MaskedText\MaskedText\obj\Debug\net6.0-windows\MaskedText.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\C# murat yücedağ\MaskedText\MaskedText\obj\Debug\net6.0-windows\MaskedText.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\C# murat yücedağ\MaskedText\MaskedText\obj\Debug\net6.0-windows\MaskedText.dll
+C:\Users\LENOVO\Desktop\C# murat yücedağ\MaskedText\MaskedText\obj\Debug\net6.0-windows\refint\MaskedText.dll
+C:\Users\LENOVO\Desktop\C# murat yücedağ\MaskedText\MaskedText\obj\Debug\net6.0-windows\MaskedText.pdb
+C:\Users\LENOVO\Desktop\C# murat yücedağ\MaskedText\MaskedText\obj\Debug\net6.0-windows\MaskedText.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\C# murat yücedağ\MaskedText\MaskedText\obj\Debug\net6.0-windows\ref\MaskedText.dll
+C:\Users\LENOVO\Desktop\C# murat yücedağ\MaskedText\MaskedText\obj\Debug\net6.0-windows\MaskedText.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\C##\MaskedText\MaskedText\bin\Debug\net6.0-windows\MaskedText.exe
+C:\Users\LENOVO\Desktop\C##\MaskedText\MaskedText\bin\Debug\net6.0-windows\MaskedText.deps.json
+C:\Users\LENOVO\Desktop\C##\MaskedText\MaskedText\bin\Debug\net6.0-windows\MaskedText.runtimeconfig.json
+C:\Users\LENOVO\Desktop\C##\MaskedText\MaskedText\bin\Debug\net6.0-windows\MaskedText.dll
+C:\Users\LENOVO\Desktop\C##\MaskedText\MaskedText\bin\Debug\net6.0-windows\MaskedText.pdb
+C:\Users\LENOVO\Desktop\C##\MaskedText\MaskedText\obj\Debug\net6.0-windows\MaskedText.Form1.resources
+C:\Users\LENOVO\Desktop\C##\MaskedText\MaskedText\obj\Debug\net6.0-windows\MaskedText.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\C##\MaskedText\MaskedText\obj\Debug\net6.0-windows\MaskedText.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\C##\MaskedText\MaskedText\obj\Debug\net6.0-windows\MaskedText.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\C##\MaskedText\MaskedText\obj\Debug\net6.0-windows\MaskedText.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\C##\MaskedText\MaskedText\obj\Debug\net6.0-windows\MaskedText.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\C##\MaskedText\MaskedText\obj\Debug\net6.0-windows\MaskedText.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\C##\MaskedText\MaskedText\obj\Debug\net6.0-windows\MaskedText.dll
+C:\Users\LENOVO\Desktop\C##\MaskedText\MaskedText\obj\Debug\net6.0-windows\refint\MaskedText.dll
+C:\Users\LENOVO\Desktop\C##\MaskedText\MaskedText\obj\Debug\net6.0-windows\MaskedText.pdb
+C:\Users\LENOVO\Desktop\C##\MaskedText\MaskedText\obj\Debug\net6.0-windows\MaskedText.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\C##\MaskedText\MaskedText\obj\Debug\net6.0-windows\ref\MaskedText.dll

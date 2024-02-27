@@ -1,0 +1,20 @@
+C:\Users\LENOVO\Desktop\C# murat yücedağ\Sınıf_Gecme_Projesi\Sınıf_Gecme_Projesi\bin\Debug\Sınıf_Gecme_Projesi.exe.config
+C:\Users\LENOVO\Desktop\C# murat yücedağ\Sınıf_Gecme_Projesi\Sınıf_Gecme_Projesi\bin\Debug\Sınıf_Gecme_Projesi.exe
+C:\Users\LENOVO\Desktop\C# murat yücedağ\Sınıf_Gecme_Projesi\Sınıf_Gecme_Projesi\bin\Debug\Sınıf_Gecme_Projesi.pdb
+C:\Users\LENOVO\Desktop\C# murat yücedağ\Sınıf_Gecme_Projesi\Sınıf_Gecme_Projesi\obj\Debug\Sınıf_Gecme_Projesi.csprojAssemblyReference.cache
+C:\Users\LENOVO\Desktop\C# murat yücedağ\Sınıf_Gecme_Projesi\Sınıf_Gecme_Projesi\obj\Debug\Sınıf_Gecme_Projesi.Form1.resources
+C:\Users\LENOVO\Desktop\C# murat yücedağ\Sınıf_Gecme_Projesi\Sınıf_Gecme_Projesi\obj\Debug\Sınıf_Gecme_Projesi.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\C# murat yücedağ\Sınıf_Gecme_Projesi\Sınıf_Gecme_Projesi\obj\Debug\Sınıf_Gecme_Projesi.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\C# murat yücedağ\Sınıf_Gecme_Projesi\Sınıf_Gecme_Projesi\obj\Debug\Sınıf_Gecme_Projesi.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\C# murat yücedağ\Sınıf_Gecme_Projesi\Sınıf_Gecme_Projesi\obj\Debug\Sınıf_Gecme_Projesi.exe
+C:\Users\LENOVO\Desktop\C# murat yücedağ\Sınıf_Gecme_Projesi\Sınıf_Gecme_Projesi\obj\Debug\Sınıf_Gecme_Projesi.pdb
+C:\Users\LENOVO\Desktop\C##\Sınıf_Gecme_Projesi\Sınıf_Gecme_Projesi\bin\Debug\Sınıf_Gecme_Projesi.exe.config
+C:\Users\LENOVO\Desktop\C##\Sınıf_Gecme_Projesi\Sınıf_Gecme_Projesi\bin\Debug\Sınıf_Gecme_Projesi.exe
+C:\Users\LENOVO\Desktop\C##\Sınıf_Gecme_Projesi\Sınıf_Gecme_Projesi\bin\Debug\Sınıf_Gecme_Projesi.pdb
+C:\Users\LENOVO\Desktop\C##\Sınıf_Gecme_Projesi\Sınıf_Gecme_Projesi\obj\Debug\Sınıf_Gecme_Projesi.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\C##\Sınıf_Gecme_Projesi\Sınıf_Gecme_Projesi\obj\Debug\Sınıf_Gecme_Projesi.Form1.resources
+C:\Users\LENOVO\Desktop\C##\Sınıf_Gecme_Projesi\Sınıf_Gecme_Projesi\obj\Debug\Sınıf_Gecme_Projesi.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\C##\Sınıf_Gecme_Projesi\Sınıf_Gecme_Projesi\obj\Debug\Sınıf_Gecme_Projesi.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\C##\Sınıf_Gecme_Projesi\Sınıf_Gecme_Projesi\obj\Debug\Sınıf_Gecme_Projesi.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\C##\Sınıf_Gecme_Projesi\Sınıf_Gecme_Projesi\obj\Debug\Sınıf_Gecme_Projesi.exe
+C:\Users\LENOVO\Desktop\C##\Sınıf_Gecme_Projesi\Sınıf_Gecme_Projesi\obj\Debug\Sınıf_Gecme_Projesi.pdb

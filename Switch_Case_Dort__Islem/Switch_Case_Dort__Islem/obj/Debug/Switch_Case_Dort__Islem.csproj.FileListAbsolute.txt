@@ -1,0 +1,20 @@
+C:\Users\LENOVO\Desktop\C# murat yücedağ\Switch_Case_Dort__Islem\Switch_Case_Dort__Islem\bin\Debug\Switch_Case_Dort__Islem.exe.config
+C:\Users\LENOVO\Desktop\C# murat yücedağ\Switch_Case_Dort__Islem\Switch_Case_Dort__Islem\bin\Debug\Switch_Case_Dort__Islem.exe
+C:\Users\LENOVO\Desktop\C# murat yücedağ\Switch_Case_Dort__Islem\Switch_Case_Dort__Islem\bin\Debug\Switch_Case_Dort__Islem.pdb
+C:\Users\LENOVO\Desktop\C# murat yücedağ\Switch_Case_Dort__Islem\Switch_Case_Dort__Islem\obj\Debug\Switch_Case_Dort__Islem.csprojAssemblyReference.cache
+C:\Users\LENOVO\Desktop\C# murat yücedağ\Switch_Case_Dort__Islem\Switch_Case_Dort__Islem\obj\Debug\Switch_Case_Dort__Islem.Form1.resources
+C:\Users\LENOVO\Desktop\C# murat yücedağ\Switch_Case_Dort__Islem\Switch_Case_Dort__Islem\obj\Debug\Switch_Case_Dort__Islem.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\C# murat yücedağ\Switch_Case_Dort__Islem\Switch_Case_Dort__Islem\obj\Debug\Switch_Case_Dort__Islem.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\C# murat yücedağ\Switch_Case_Dort__Islem\Switch_Case_Dort__Islem\obj\Debug\Switch_Case_Dort__Islem.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\C# murat yücedağ\Switch_Case_Dort__Islem\Switch_Case_Dort__Islem\obj\Debug\Switch_Case_Dort__Islem.exe
+C:\Users\LENOVO\Desktop\C# murat yücedağ\Switch_Case_Dort__Islem\Switch_Case_Dort__Islem\obj\Debug\Switch_Case_Dort__Islem.pdb
+C:\Users\LENOVO\Desktop\C##\Switch_Case_Dort__Islem\Switch_Case_Dort__Islem\bin\Debug\Switch_Case_Dort__Islem.exe.config
+C:\Users\LENOVO\Desktop\C##\Switch_Case_Dort__Islem\Switch_Case_Dort__Islem\bin\Debug\Switch_Case_Dort__Islem.exe
+C:\Users\LENOVO\Desktop\C##\Switch_Case_Dort__Islem\Switch_Case_Dort__Islem\bin\Debug\Switch_Case_Dort__Islem.pdb
+C:\Users\LENOVO\Desktop\C##\Switch_Case_Dort__Islem\Switch_Case_Dort__Islem\obj\Debug\Switch_Case_Dort__Islem.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\C##\Switch_Case_Dort__Islem\Switch_Case_Dort__Islem\obj\Debug\Switch_Case_Dort__Islem.Form1.resources
+C:\Users\LENOVO\Desktop\C##\Switch_Case_Dort__Islem\Switch_Case_Dort__Islem\obj\Debug\Switch_Case_Dort__Islem.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\C##\Switch_Case_Dort__Islem\Switch_Case_Dort__Islem\obj\Debug\Switch_Case_Dort__Islem.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\C##\Switch_Case_Dort__Islem\Switch_Case_Dort__Islem\obj\Debug\Switch_Case_Dort__Islem.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\C##\Switch_Case_Dort__Islem\Switch_Case_Dort__Islem\obj\Debug\Switch_Case_Dort__Islem.exe
+C:\Users\LENOVO\Desktop\C##\Switch_Case_Dort__Islem\Switch_Case_Dort__Islem\obj\Debug\Switch_Case_Dort__Islem.pdb

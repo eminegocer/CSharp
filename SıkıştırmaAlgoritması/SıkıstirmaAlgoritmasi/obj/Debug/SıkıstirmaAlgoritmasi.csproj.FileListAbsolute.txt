@@ -1,0 +1,14 @@
+C:\Users\LENOVO\source\repos\NTP_Lab\SıkıstirmaAlgoritmasi\bin\Debug\SıkıstirmaAlgoritmasi.exe.config
+C:\Users\LENOVO\source\repos\NTP_Lab\SıkıstirmaAlgoritmasi\bin\Debug\SıkıstirmaAlgoritmasi.exe
+C:\Users\LENOVO\source\repos\NTP_Lab\SıkıstirmaAlgoritmasi\bin\Debug\SıkıstirmaAlgoritmasi.pdb
+C:\Users\LENOVO\source\repos\NTP_Lab\SıkıstirmaAlgoritmasi\obj\Debug\SıkıstirmaAlgoritmasi.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\NTP_Lab\SıkıstirmaAlgoritmasi\obj\Debug\SıkıstirmaAlgoritmasi.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\NTP_Lab\SıkıstirmaAlgoritmasi\obj\Debug\SıkıstirmaAlgoritmasi.exe
+C:\Users\LENOVO\source\repos\NTP_Lab\SıkıstirmaAlgoritmasi\obj\Debug\SıkıstirmaAlgoritmasi.pdb
+C:\Users\LENOVO\Desktop\NTP_Lab\SıkıstirmaAlgoritmasi\bin\Debug\SıkıstirmaAlgoritmasi.exe.config
+C:\Users\LENOVO\Desktop\NTP_Lab\SıkıstirmaAlgoritmasi\bin\Debug\SıkıstirmaAlgoritmasi.exe
+C:\Users\LENOVO\Desktop\NTP_Lab\SıkıstirmaAlgoritmasi\bin\Debug\SıkıstirmaAlgoritmasi.pdb
+C:\Users\LENOVO\Desktop\NTP_Lab\SıkıstirmaAlgoritmasi\obj\Debug\SıkıstirmaAlgoritmasi.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\NTP_Lab\SıkıstirmaAlgoritmasi\obj\Debug\SıkıstirmaAlgoritmasi.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\NTP_Lab\SıkıstirmaAlgoritmasi\obj\Debug\SıkıstirmaAlgoritmasi.exe
+C:\Users\LENOVO\Desktop\NTP_Lab\SıkıstirmaAlgoritmasi\obj\Debug\SıkıstirmaAlgoritmasi.pdb

@@ -1,0 +1,20 @@
+C:\Users\LENOVO\Desktop\C# murat yücedağ\ProgressBar_Timer_Pasta_Proje\ProgressBar_Timer_Pasta_Proje\bin\Debug\ProgressBar_Timer_Pasta_Proje.exe.config
+C:\Users\LENOVO\Desktop\C# murat yücedağ\ProgressBar_Timer_Pasta_Proje\ProgressBar_Timer_Pasta_Proje\bin\Debug\ProgressBar_Timer_Pasta_Proje.exe
+C:\Users\LENOVO\Desktop\C# murat yücedağ\ProgressBar_Timer_Pasta_Proje\ProgressBar_Timer_Pasta_Proje\bin\Debug\ProgressBar_Timer_Pasta_Proje.pdb
+C:\Users\LENOVO\Desktop\C# murat yücedağ\ProgressBar_Timer_Pasta_Proje\ProgressBar_Timer_Pasta_Proje\obj\Debug\ProgressBar_Timer_Pasta_Proje.csprojAssemblyReference.cache
+C:\Users\LENOVO\Desktop\C# murat yücedağ\ProgressBar_Timer_Pasta_Proje\ProgressBar_Timer_Pasta_Proje\obj\Debug\ProgressBar_Timer_Pasta_Proje.Form1.resources
+C:\Users\LENOVO\Desktop\C# murat yücedağ\ProgressBar_Timer_Pasta_Proje\ProgressBar_Timer_Pasta_Proje\obj\Debug\ProgressBar_Timer_Pasta_Proje.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\C# murat yücedağ\ProgressBar_Timer_Pasta_Proje\ProgressBar_Timer_Pasta_Proje\obj\Debug\ProgressBar_Timer_Pasta_Proje.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\C# murat yücedağ\ProgressBar_Timer_Pasta_Proje\ProgressBar_Timer_Pasta_Proje\obj\Debug\ProgressBar_Timer_Pasta_Proje.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\C# murat yücedağ\ProgressBar_Timer_Pasta_Proje\ProgressBar_Timer_Pasta_Proje\obj\Debug\ProgressBar_Timer_Pasta_Proje.exe
+C:\Users\LENOVO\Desktop\C# murat yücedağ\ProgressBar_Timer_Pasta_Proje\ProgressBar_Timer_Pasta_Proje\obj\Debug\ProgressBar_Timer_Pasta_Proje.pdb
+C:\Users\LENOVO\Desktop\C##\ProgressBar_Timer_Pasta_Proje\ProgressBar_Timer_Pasta_Proje\bin\Debug\ProgressBar_Timer_Pasta_Proje.exe.config
+C:\Users\LENOVO\Desktop\C##\ProgressBar_Timer_Pasta_Proje\ProgressBar_Timer_Pasta_Proje\bin\Debug\ProgressBar_Timer_Pasta_Proje.exe
+C:\Users\LENOVO\Desktop\C##\ProgressBar_Timer_Pasta_Proje\ProgressBar_Timer_Pasta_Proje\bin\Debug\ProgressBar_Timer_Pasta_Proje.pdb
+C:\Users\LENOVO\Desktop\C##\ProgressBar_Timer_Pasta_Proje\ProgressBar_Timer_Pasta_Proje\obj\Debug\ProgressBar_Timer_Pasta_Proje.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\C##\ProgressBar_Timer_Pasta_Proje\ProgressBar_Timer_Pasta_Proje\obj\Debug\ProgressBar_Timer_Pasta_Proje.Form1.resources
+C:\Users\LENOVO\Desktop\C##\ProgressBar_Timer_Pasta_Proje\ProgressBar_Timer_Pasta_Proje\obj\Debug\ProgressBar_Timer_Pasta_Proje.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\C##\ProgressBar_Timer_Pasta_Proje\ProgressBar_Timer_Pasta_Proje\obj\Debug\ProgressBar_Timer_Pasta_Proje.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\C##\ProgressBar_Timer_Pasta_Proje\ProgressBar_Timer_Pasta_Proje\obj\Debug\ProgressBar_Timer_Pasta_Proje.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\C##\ProgressBar_Timer_Pasta_Proje\ProgressBar_Timer_Pasta_Proje\obj\Debug\ProgressBar_Timer_Pasta_Proje.exe
+C:\Users\LENOVO\Desktop\C##\ProgressBar_Timer_Pasta_Proje\ProgressBar_Timer_Pasta_Proje\obj\Debug\ProgressBar_Timer_Pasta_Proje.pdb

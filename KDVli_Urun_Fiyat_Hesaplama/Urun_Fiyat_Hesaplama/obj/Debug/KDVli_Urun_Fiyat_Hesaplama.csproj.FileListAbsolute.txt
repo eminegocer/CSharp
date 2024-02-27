@@ -1,0 +1,10 @@
+C:\Users\LENOVO\Desktop\C#\KDVli_Urun_Fiyat_Hesaplama\KDVli_Urun_Fiyat_Hesaplama\bin\Debug\Urun_Fiyat_Hesaplama.exe.config
+C:\Users\LENOVO\Desktop\C#\KDVli_Urun_Fiyat_Hesaplama\KDVli_Urun_Fiyat_Hesaplama\bin\Debug\Urun_Fiyat_Hesaplama.exe
+C:\Users\LENOVO\Desktop\C#\KDVli_Urun_Fiyat_Hesaplama\KDVli_Urun_Fiyat_Hesaplama\bin\Debug\Urun_Fiyat_Hesaplama.pdb
+C:\Users\LENOVO\Desktop\C#\KDVli_Urun_Fiyat_Hesaplama\KDVli_Urun_Fiyat_Hesaplama\obj\Debug\KDVli_Urun_Fiyat_Hesaplama.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\C#\KDVli_Urun_Fiyat_Hesaplama\KDVli_Urun_Fiyat_Hesaplama\obj\Debug\Urun_Fiyat_Hesaplama.Form1.resources
+C:\Users\LENOVO\Desktop\C#\KDVli_Urun_Fiyat_Hesaplama\KDVli_Urun_Fiyat_Hesaplama\obj\Debug\Urun_Fiyat_Hesaplama.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\C#\KDVli_Urun_Fiyat_Hesaplama\KDVli_Urun_Fiyat_Hesaplama\obj\Debug\KDVli_Urun_Fiyat_Hesaplama.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\C#\KDVli_Urun_Fiyat_Hesaplama\KDVli_Urun_Fiyat_Hesaplama\obj\Debug\KDVli_Urun_Fiyat_Hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\C#\KDVli_Urun_Fiyat_Hesaplama\KDVli_Urun_Fiyat_Hesaplama\obj\Debug\Urun_Fiyat_Hesaplama.exe
+C:\Users\LENOVO\Desktop\C#\KDVli_Urun_Fiyat_Hesaplama\KDVli_Urun_Fiyat_Hesaplama\obj\Debug\Urun_Fiyat_Hesaplama.pdb

@@ -1,0 +1,34 @@
+C:\Users\LENOVO\Desktop\C# murat yücedağ\Giriş Paneli\Giriş Paneli\bin\Debug\net6.0-windows\Giriş Paneli.exe
+C:\Users\LENOVO\Desktop\C# murat yücedağ\Giriş Paneli\Giriş Paneli\bin\Debug\net6.0-windows\Giriş Paneli.deps.json
+C:\Users\LENOVO\Desktop\C# murat yücedağ\Giriş Paneli\Giriş Paneli\bin\Debug\net6.0-windows\Giriş Paneli.runtimeconfig.json
+C:\Users\LENOVO\Desktop\C# murat yücedağ\Giriş Paneli\Giriş Paneli\bin\Debug\net6.0-windows\Giriş Paneli.dll
+C:\Users\LENOVO\Desktop\C# murat yücedağ\Giriş Paneli\Giriş Paneli\bin\Debug\net6.0-windows\Giriş Paneli.pdb
+C:\Users\LENOVO\Desktop\C# murat yücedağ\Giriş Paneli\Giriş Paneli\obj\Debug\net6.0-windows\Giriş_Paneli.Form1.resources
+C:\Users\LENOVO\Desktop\C# murat yücedağ\Giriş Paneli\Giriş Paneli\obj\Debug\net6.0-windows\Giriş Paneli.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\C# murat yücedağ\Giriş Paneli\Giriş Paneli\obj\Debug\net6.0-windows\Giriş Paneli.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\C# murat yücedağ\Giriş Paneli\Giriş Paneli\obj\Debug\net6.0-windows\Giriş Paneli.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\C# murat yücedağ\Giriş Paneli\Giriş Paneli\obj\Debug\net6.0-windows\Giriş Paneli.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\C# murat yücedağ\Giriş Paneli\Giriş Paneli\obj\Debug\net6.0-windows\Giriş Paneli.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\C# murat yücedağ\Giriş Paneli\Giriş Paneli\obj\Debug\net6.0-windows\Giriş Paneli.dll
+C:\Users\LENOVO\Desktop\C# murat yücedağ\Giriş Paneli\Giriş Paneli\obj\Debug\net6.0-windows\refint\Giriş Paneli.dll
+C:\Users\LENOVO\Desktop\C# murat yücedağ\Giriş Paneli\Giriş Paneli\obj\Debug\net6.0-windows\Giriş Paneli.pdb
+C:\Users\LENOVO\Desktop\C# murat yücedağ\Giriş Paneli\Giriş Paneli\obj\Debug\net6.0-windows\Giriş Paneli.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\C# murat yücedağ\Giriş Paneli\Giriş Paneli\obj\Debug\net6.0-windows\ref\Giriş Paneli.dll
+C:\Users\LENOVO\Desktop\C# murat yücedağ\Giriş Paneli\Giriş Paneli\obj\Debug\net6.0-windows\Giriş_Paneli.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\C##\Giriş Paneli\Giriş Paneli\obj\Debug\net6.0-windows\Giriş_Paneli.Form1.resources
+C:\Users\LENOVO\Desktop\C##\Giriş Paneli\Giriş Paneli\obj\Debug\net6.0-windows\Giriş_Paneli.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\C##\Giriş Paneli\Giriş Paneli\obj\Debug\net6.0-windows\Giriş Paneli.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\C##\Giriş Paneli\Giriş Paneli\obj\Debug\net6.0-windows\Giriş Paneli.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\C##\Giriş Paneli\Giriş Paneli\obj\Debug\net6.0-windows\Giriş Paneli.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\C##\Giriş Paneli\Giriş Paneli\obj\Debug\net6.0-windows\Giriş Paneli.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\C##\Giriş Paneli\Giriş Paneli\obj\Debug\net6.0-windows\Giriş Paneli.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\C##\Giriş Paneli\Giriş Paneli\obj\Debug\net6.0-windows\Giriş Paneli.dll
+C:\Users\LENOVO\Desktop\C##\Giriş Paneli\Giriş Paneli\obj\Debug\net6.0-windows\refint\Giriş Paneli.dll
+C:\Users\LENOVO\Desktop\C##\Giriş Paneli\Giriş Paneli\obj\Debug\net6.0-windows\Giriş Paneli.pdb
+C:\Users\LENOVO\Desktop\C##\Giriş Paneli\Giriş Paneli\bin\Debug\net6.0-windows\Giriş Paneli.exe
+C:\Users\LENOVO\Desktop\C##\Giriş Paneli\Giriş Paneli\bin\Debug\net6.0-windows\Giriş Paneli.deps.json
+C:\Users\LENOVO\Desktop\C##\Giriş Paneli\Giriş Paneli\bin\Debug\net6.0-windows\Giriş Paneli.runtimeconfig.json
+C:\Users\LENOVO\Desktop\C##\Giriş Paneli\Giriş Paneli\bin\Debug\net6.0-windows\Giriş Paneli.dll
+C:\Users\LENOVO\Desktop\C##\Giriş Paneli\Giriş Paneli\bin\Debug\net6.0-windows\Giriş Paneli.pdb
+C:\Users\LENOVO\Desktop\C##\Giriş Paneli\Giriş Paneli\obj\Debug\net6.0-windows\Giriş Paneli.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\C##\Giriş Paneli\Giriş Paneli\obj\Debug\net6.0-windows\ref\Giriş Paneli.dll

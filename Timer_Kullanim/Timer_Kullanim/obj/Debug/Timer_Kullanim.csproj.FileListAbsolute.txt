@@ -1,0 +1,19 @@
+C:\Users\LENOVO\Desktop\C# murat yücedağ\Timer_Kullanim\Timer_Kullanim\bin\Debug\Timer_Kullanim.exe.config
+C:\Users\LENOVO\Desktop\C# murat yücedağ\Timer_Kullanim\Timer_Kullanim\bin\Debug\Timer_Kullanim.exe
+C:\Users\LENOVO\Desktop\C# murat yücedağ\Timer_Kullanim\Timer_Kullanim\bin\Debug\Timer_Kullanim.pdb
+C:\Users\LENOVO\Desktop\C# murat yücedağ\Timer_Kullanim\Timer_Kullanim\obj\Debug\Timer_Kullanim.Form1.resources
+C:\Users\LENOVO\Desktop\C# murat yücedağ\Timer_Kullanim\Timer_Kullanim\obj\Debug\Timer_Kullanim.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\C# murat yücedağ\Timer_Kullanim\Timer_Kullanim\obj\Debug\Timer_Kullanim.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\C# murat yücedağ\Timer_Kullanim\Timer_Kullanim\obj\Debug\Timer_Kullanim.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\C# murat yücedağ\Timer_Kullanim\Timer_Kullanim\obj\Debug\Timer_Kullanim.exe
+C:\Users\LENOVO\Desktop\C# murat yücedağ\Timer_Kullanim\Timer_Kullanim\obj\Debug\Timer_Kullanim.pdb
+C:\Users\LENOVO\Desktop\C##\Timer_Kullanim\Timer_Kullanim\bin\Debug\Timer_Kullanim.exe.config
+C:\Users\LENOVO\Desktop\C##\Timer_Kullanim\Timer_Kullanim\bin\Debug\Timer_Kullanim.exe
+C:\Users\LENOVO\Desktop\C##\Timer_Kullanim\Timer_Kullanim\bin\Debug\Timer_Kullanim.pdb
+C:\Users\LENOVO\Desktop\C##\Timer_Kullanim\Timer_Kullanim\obj\Debug\Timer_Kullanim.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\C##\Timer_Kullanim\Timer_Kullanim\obj\Debug\Timer_Kullanim.Form1.resources
+C:\Users\LENOVO\Desktop\C##\Timer_Kullanim\Timer_Kullanim\obj\Debug\Timer_Kullanim.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\C##\Timer_Kullanim\Timer_Kullanim\obj\Debug\Timer_Kullanim.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\C##\Timer_Kullanim\Timer_Kullanim\obj\Debug\Timer_Kullanim.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\C##\Timer_Kullanim\Timer_Kullanim\obj\Debug\Timer_Kullanim.exe
+C:\Users\LENOVO\Desktop\C##\Timer_Kullanim\Timer_Kullanim\obj\Debug\Timer_Kullanim.pdb

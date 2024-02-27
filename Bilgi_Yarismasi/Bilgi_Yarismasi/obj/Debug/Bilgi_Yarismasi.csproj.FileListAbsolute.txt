@@ -1,0 +1,20 @@
+C:\Users\LENOVO\Desktop\C# murat yücedağ\Bilgi_Yarismasi\Bilgi_Yarismasi\bin\Debug\Bilgi_Yarismasi.exe.config
+C:\Users\LENOVO\Desktop\C# murat yücedağ\Bilgi_Yarismasi\Bilgi_Yarismasi\bin\Debug\Bilgi_Yarismasi.exe
+C:\Users\LENOVO\Desktop\C# murat yücedağ\Bilgi_Yarismasi\Bilgi_Yarismasi\bin\Debug\Bilgi_Yarismasi.pdb
+C:\Users\LENOVO\Desktop\C# murat yücedağ\Bilgi_Yarismasi\Bilgi_Yarismasi\obj\Debug\Bilgi_Yarismasi.csprojAssemblyReference.cache
+C:\Users\LENOVO\Desktop\C# murat yücedağ\Bilgi_Yarismasi\Bilgi_Yarismasi\obj\Debug\Bilgi_Yarismasi.Form1.resources
+C:\Users\LENOVO\Desktop\C# murat yücedağ\Bilgi_Yarismasi\Bilgi_Yarismasi\obj\Debug\Bilgi_Yarismasi.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\C# murat yücedağ\Bilgi_Yarismasi\Bilgi_Yarismasi\obj\Debug\Bilgi_Yarismasi.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\C# murat yücedağ\Bilgi_Yarismasi\Bilgi_Yarismasi\obj\Debug\Bilgi_Yarismasi.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\C# murat yücedağ\Bilgi_Yarismasi\Bilgi_Yarismasi\obj\Debug\Bilgi_Yarismasi.exe
+C:\Users\LENOVO\Desktop\C# murat yücedağ\Bilgi_Yarismasi\Bilgi_Yarismasi\obj\Debug\Bilgi_Yarismasi.pdb
+C:\Users\LENOVO\Desktop\C##\Bilgi_Yarismasi\Bilgi_Yarismasi\bin\Debug\Bilgi_Yarismasi.exe.config
+C:\Users\LENOVO\Desktop\C##\Bilgi_Yarismasi\Bilgi_Yarismasi\bin\Debug\Bilgi_Yarismasi.exe
+C:\Users\LENOVO\Desktop\C##\Bilgi_Yarismasi\Bilgi_Yarismasi\bin\Debug\Bilgi_Yarismasi.pdb
+C:\Users\LENOVO\Desktop\C##\Bilgi_Yarismasi\Bilgi_Yarismasi\obj\Debug\Bilgi_Yarismasi.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\C##\Bilgi_Yarismasi\Bilgi_Yarismasi\obj\Debug\Bilgi_Yarismasi.Form1.resources
+C:\Users\LENOVO\Desktop\C##\Bilgi_Yarismasi\Bilgi_Yarismasi\obj\Debug\Bilgi_Yarismasi.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\C##\Bilgi_Yarismasi\Bilgi_Yarismasi\obj\Debug\Bilgi_Yarismasi.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\C##\Bilgi_Yarismasi\Bilgi_Yarismasi\obj\Debug\Bilgi_Yarismasi.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\C##\Bilgi_Yarismasi\Bilgi_Yarismasi\obj\Debug\Bilgi_Yarismasi.exe
+C:\Users\LENOVO\Desktop\C##\Bilgi_Yarismasi\Bilgi_Yarismasi\obj\Debug\Bilgi_Yarismasi.pdb
